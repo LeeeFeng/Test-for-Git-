@@ -1,3 +1,4 @@
 git is a good distriubuted version control system
 git is free software which i like
+git has a mutable index called stage
 
